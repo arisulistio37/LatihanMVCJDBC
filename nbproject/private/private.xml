@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Ari%20Sulistio/Documents/NetBeansProjects/LatihanMVCJDBC/src/edu/arisulistio/latihanmvcjdbc/main/LatihanMVCJDBC.java</file>
+            <file>file:/C:/Users/Ari%20Sulistio/Documents/NetBeansProjects/LatihanMVCJDBC/src/edu/arisulistio/latihanmvcjdbc/impl/PelangganDaoImpl.java</file>
+            <file>file:/C:/Users/Ari%20Sulistio/Documents/NetBeansProjects/LatihanMVCJDBC/src/edu/arisulistio/latihanmvcjdbc/error/PelangganException.java</file>
+            <file>file:/C:/Users/Ari%20Sulistio/Documents/NetBeansProjects/LatihanMVCJDBC/src/edu/arisulistio/latihanmvcjdbc/model/PelangganModel.java</file>
+            <file>file:/C:/Users/Ari%20Sulistio/Documents/NetBeansProjects/LatihanMVCJDBC/src/edu/arisulistio/latihanmvcjdbc/databases/KingBarberShopDatabase.java</file>
+            <file>file:/C:/Users/Ari%20Sulistio/Documents/NetBeansProjects/LatihanMVCJDBC/src/edu/arisulistio/latihanmvcjdbc/view/MainViewPelanggan.java</file>
+            <file>file:/C:/Users/Ari%20Sulistio/Documents/NetBeansProjects/LatihanMVCJDBC/src/edu/arisulistio/latihanmvcjdbc/controller/PelangganController.java</file>
+            <file>file:/C:/Users/Ari%20Sulistio/Documents/NetBeansProjects/LatihanMVCJDBC/src/edu/arisulistio/latihanmvcjdbc/entity/Pelanggan.java</file>
+            <file>file:/C:/Users/Ari%20Sulistio/Documents/NetBeansProjects/LatihanMVCJDBC/src/edu/arisulistio/latihanmvcjdbc/model/TablePelangganModel.java</file>
+            <file>file:/C:/Users/Ari%20Sulistio/Documents/NetBeansProjects/LatihanMVCJDBC/src/edu/arisulistio/latihanmvcjdbc/view/PelangganView.java</file>
+            <file>file:/C:/Users/Ari%20Sulistio/Documents/NetBeansProjects/LatihanMVCJDBC/src/edu/arisulistio/latihanmvcjdbc/service/PelangganDao.java</file>
+            <file>file:/C:/Users/Ari%20Sulistio/Documents/NetBeansProjects/LatihanMVCJDBC/src/edu/arisulistio/latihanmvcjdbc/event/PelangganListener.java</file>
+        </group>
+    </open-files>
+</project-private>
